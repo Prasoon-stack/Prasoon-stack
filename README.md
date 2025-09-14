@@ -64,7 +64,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Prasoon-stack/Prasoon-stack/output/snake.svg" alt="Snake animation" />
-
-###
