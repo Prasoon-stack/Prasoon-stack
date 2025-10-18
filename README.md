@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📊 Crunching data since 2024<br>🤖 Also exploring the world of ML and DL</p>
+<p align="left">📊 Crunching data since 2024<br>🤖 Also exploring the world of MachineLearning and DeepLearning</p>
 
 ###
 
